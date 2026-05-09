@@ -1,4 +1,180 @@
 # **Histology/Tissues**
+========================================
+CHAPTER 4 — HISTOLOGY / TISSUES  
+FULL ANSWER KEY  
+========================================
+
+===============================
+Prelab Activity 4.1  
+Definitions  
+===============================
+
+Types of tissues:
+
+Epithelial — Tissue that covers body surfaces, lines cavities, and forms glands.  
+Connective — Tissue that supports, binds, and protects other tissues; contains cells, fibers, and matrix.  
+Muscular — Tissue specialized for contraction and movement.  
+Nervous — Tissue that transmits electrical impulses for communication and control.
+
+Epithelial Tissues:
+
+Simple squamous — Single layer of flat cells; allows diffusion and filtration.  
+Stratified squamous (keratinized/nonkeratinized) — Multiple layers; protection from abrasion; keratinized in skin, nonkeratinized in mouth/esophagus.  
+Simple cuboidal — Single layer of cube‑shaped cells; secretion and absorption.  
+Stratified cuboidal/columnar – rare — Protection; found in ducts of glands.  
+Simple columnar — Single layer of tall cells; absorption and secretion; may contain goblet cells.  
+Pseudostratified columnar epithelium — Appears multilayered but is one layer; often ciliated; secretion and movement of mucus.  
+Transitional epithelium — Stratified; cells change shape; found in urinary bladder.
+
+Epithelial features:
+
+Simple — One layer of cells.  
+Stratified — Multiple layers of cells.  
+Apical — Surface facing the lumen or free space.  
+Basal — Surface attached to basement membrane.  
+Basement membrane — Layer anchoring epithelium to connective tissue.
+
+Connective Tissue:
+
+Cartilage — Supportive connective tissue with chondrocytes in lacunae.  
+Areolar connective tissue — Loose CT with fibroblasts, collagen, elastin; wraps organs.  
+Hyaline cartilage — Smooth, glassy cartilage; ends of long bones, trachea.  
+Adipose tissue — Fat storage tissue; insulation and energy reserve.  
+Fibrocartilage — Strong cartilage with thick collagen; intervertebral discs.  
+Elastic cartilage — Flexible cartilage; ear, epiglottis.  
+Regular dense connective tissue — Parallel collagen fibers; tendons/ligaments.  
+Irregular dense connective tissue — Irregular collagen fibers; dermis.  
+Bone — Mineralized connective tissue; support and protection.  
+Blood — Fluid connective tissue; transport of gases, nutrients, wastes.
+
+Connective Tissue Features:
+
+Collagen fibers — Strong, thick fibers providing tensile strength.  
+Elastin fibers — Stretchy fibers allowing recoil.  
+Extracellular matrix — Ground substance + fibers surrounding cells.  
+Cells — Living components of CT.  
+Fibroblasts — Produce fibers and matrix.  
+Adipocytes — Store fat.  
+Chondrocytes — Cartilage cells in lacunae.  
+Lacuna — Small cavity housing a cell (bone or cartilage).
+
+===============================
+Lab Activity 4.1  
+Epithelial Tissue Identification  
+===============================
+
+(Figure numbers correspond to typical textbook images.)
+
+Figure 4.3  
+Name: Simple squamous epithelium  
+Location: Alveoli of lungs; kidney glomeruli  
+Function: Diffusion and filtration
+
+Figure 4.4  
+Name: Simple cuboidal epithelium  
+Location: Kidney tubules; glands  
+Function: Secretion and absorption
+
+Figure 4.5  
+Name: Simple columnar epithelium  
+Location: Digestive tract (stomach, intestines)  
+Function: Absorption; secretion of mucus/enzymes
+
+Figure 4.6  
+Name: Pseudostratified ciliated columnar epithelium  
+Location: Trachea; upper respiratory tract  
+Function: Secretion and movement of mucus
+
+Figure 4.7  
+Name: Transitional epithelium  
+Location: Urinary bladder  
+Function: Stretching and distension
+
+Figure 4.8  
+Name: Stratified squamous epithelium  
+Location: Skin (keratinized); mouth/esophagus (nonkeratinized)  
+Function: Protection from abrasion
+
+===============================
+Lab Activity 4.2  
+Microscope Work (Typical Answers)
+===============================
+
+Simple squamous  
+Magnification: 400x  
+Location: Lung alveoli; kidney glomeruli
+
+Simple cuboidal  
+Magnification: 400x  
+Location: Kidney tubules; glands
+
+Simple columnar  
+Magnification: 400x  
+Location: Small intestine; stomach lining
+
+Transitional  
+Magnification: 400x  
+Location: Urinary bladder
+
+Stratified squamous  
+Magnification: 400x  
+Location: Skin; oral cavity; esophagus
+
+===============================
+Lab Activity 4.3 & 4.4  
+Connective Tissue Identification  
+===============================
+
+Areolar  
+Magnification: 400x  
+Location: Under epithelia; around organs  
+Function: Cushions organs; provides support
+
+Adipose  
+Magnification: 400x  
+Location: Hypodermis; around kidneys  
+Function: Energy storage; insulation
+
+Dense regular connective tissue  
+Magnification: 400x  
+Location: Tendons; ligaments  
+Function: Strong attachment; resists pulling in one direction
+
+Blood  
+Magnification: 400x  
+Location: Blood vessels  
+Function: Transport of gases, nutrients, wastes
+
+Hyaline cartilage  
+Magnification: 400x  
+Location: Trachea; ends of long bones  
+Function: Support; reduces friction
+
+Fibrocartilage  
+Magnification: 400x  
+Location: Intervertebral discs; pubic symphysis  
+Function: Shock absorption
+
+Elastic cartilage  
+Magnification: 400x  
+Location: Ear; epiglottis  
+Function: Flexible support
+
+Bone  
+Magnification: 400x  
+Location: Skeleton  
+Function: Support; protection; mineral storage
+
+===============================
+Post Lab Activity 4.1  
+Short Answers  
+===============================
+
+Epithelium classification:  
+1) Number of layers (simple vs. stratified)  
+2) Cell shape (squamous, cuboidal, columnar)
+
+Major tissue types:  
 
 ![](images/_page_75_Picture_1.jpeg)
 
