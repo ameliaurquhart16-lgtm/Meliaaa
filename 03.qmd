@@ -1,4 +1,49 @@
 # **Cells**
+========================================
+CHAPTER 3 — CELLS  
+FULL ANSWER KEY  
+========================================
+
+===============================
+Prelab Activity 3.1  
+Cell Structure and Function  
+===============================
+
+Cytoplasm — All contents of the cell between the plasma membrane and nucleus; includes cytosol and organelles.  
+Cytosol — The fluid portion of the cytoplasm; mostly water with dissolved solutes.  
+Organelles — Specialized structures within a cell that perform specific functions.
+
+Organelle Types:
+
+Rough Endoplasmic Reticulum — Studded with ribosomes; synthesizes and folds proteins.  
+Smooth Endoplasmic Reticulum — Synthesizes lipids; detoxifies drugs and toxins; stores calcium.  
+Golgi apparatus — Modifies, sorts, and packages proteins and lipids for transport.  
+Mitochondrion — Produces ATP through cellular respiration.  
+Lysosomes — Contain digestive enzymes; break down waste and damaged organelles.  
+Peroxisomes — Break down fatty acids and detoxify harmful substances (H₂O₂).  
+Microfilaments — Thin actin filaments; provide structure and enable cell movement.  
+Microtubules — Hollow tubes of tubulin; form spindle fibers and provide internal support.  
+Cilia — Short, numerous projections that move substances across the cell surface.  
+Flagella — Long projection used for cell movement (e.g., sperm).  
+Nucleus — Control center of the cell; contains DNA.  
+Nucleolus — Produces ribosomal RNA and assembles ribosomes.
+
+===============================
+Membrane Transport Definitions
+===============================
+
+Passive Transport — Movement across the membrane without energy input.  
+Active Transport — Movement across the membrane requiring ATP.  
+Diffusion — Movement of molecules from high to low concentration.  
+Osmosis — Diffusion of water across a selectively permeable membrane.  
+Cell Cycle — The life cycle of a cell from formation to division.  
+Interphase — Period of growth, DNA replication, and preparation for mitosis.  
+Mitosis — Division of the nucleus into two identical nuclei.
+
+===============================
+Stages of Interphase and Mitosis
+===============================
+
 
 ## **Introduction:**
 
