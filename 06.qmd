@@ -1,4 +1,187 @@
-# **Skeletal Terms, Bone Histology, and Microanatomy**
+# Skeletal Terms, Bone Histology, and Microanatomy
+
+## Prelab Activity 6.1
+
+### Definitions
+
+#### Skeleton
+- Axial skeleton: Forms the central axis of the body including the skull, vertebral column, and thoracic cage.
+- Appendicular skeleton: Includes the limbs and the girdles that attach them to the axial skeleton.
+
+### General Structure of Long Bones
+- Epiphysis: Expanded end of a long bone containing spongy bone and red marrow.
+- Diaphysis: Shaft of a long bone.
+- Compact bone: Dense outer bone tissue that provides strength.
+- Spongy bone: Porous bone tissue containing trabeculae and red marrow.
+- Hyaline (articular) cartilage: Smooth cartilage covering the ends of bones to reduce friction.
+- Periosteum: Fibrous membrane covering the outer surface of bone.
+- Bone processes: Projections where muscles and ligaments attach.
+- Medullary cavity: Hollow cavity inside the diaphysis containing marrow.
+- Yellow marrow: Fat-storing marrow found in the medullary cavity.
+- Red marrow: Tissue where blood cell formation occurs.
+- Epiphyseal plate: Growth plate made of hyaline cartilage.
+- Endosteum: Thin membrane lining the medullary cavity.
+
+## Bone Tissue
+
+| Term | Definition |
+|---|---|
+| Osteocytes | Mature bone cells that maintain bone matrix |
+| Matrix | Nonliving material surrounding bone cells |
+| Collagen fibers | Protein fibers providing flexibility and tensile strength |
+| Calcium phosphate | Mineral salt that hardens bone |
+| Osteoblasts | Bone-forming cells |
+| Osteoclasts | Bone-resorbing cells |
+
+## Bone Classification
+
+| Term | Definition |
+|---|---|
+| Long bones | Longer than wide; function as levers |
+| Short bones | Cube-shaped bones providing stability |
+| Flat bones | Thin bones protecting organs |
+| Irregular bones | Complex-shaped bones |
+| Sesamoid bones | Small round bones embedded in tendons |
+
+--------------------------------------------------
+
+## Prelab Activity 6.2
+
+### Table 6.1 Identify the Bones or Regions
+
+| Number | Name of bone or region | Division |
+|---|---|---|
+| 1 | Cranium | Axial |
+| 2 | Mandible | Axial |
+| 3 | Clavicle | Appendicular |
+| 4 | Scapula | Appendicular |
+| 5 | Sternum | Axial |
+| 6 | Ribs | Axial |
+| 7 | Humerus | Appendicular |
+| 8 | Radius | Appendicular |
+| 9 | Ulna | Appendicular |
+| 10 | Carpals | Appendicular |
+| 11 | Metacarpals | Appendicular |
+| 12 | Phalanges (hand) | Appendicular |
+| 13 | Vertebral column | Axial |
+| 14 | Pelvis | Appendicular |
+| 15 | Sacrum | Axial |
+| 16 | Femur | Appendicular |
+| 17 | Patella | Appendicular |
+| 18 | Tibia | Appendicular |
+| 19 | Fibula | Appendicular |
+| 20 | Tarsals | Appendicular |
+| 21 | Metatarsals | Appendicular |
+| 22 | Phalanges (foot) | Appendicular |
+| 23 | Cervical vertebrae | Axial |
+| 26 | Coccyx | Axial |
+
+--------------------------------------------------
+
+## Lab Activity 6.1
+
+| Bones | Classification |
+|---|---|
+| Sacrum | Axial |
+| Humerus | Appendicular |
+| Phalanges (digits) | Appendicular |
+| Cervical Vertebrae | Axial |
+| Cranium | Axial |
+| Scapula | Appendicular |
+
+--------------------------------------------------
+
+## Table 6.3 Bone Classification Based on Shape
+
+| Classification | Features | Example(s) |
+|---|---|---|
+| Long | Cylindrical; longer than wide | Femur, Humerus |
+| Short | Cube-shaped | Carpals, Tarsals |
+| Flat | Thin and curved | Sternum, Scapula |
+| Irregular | Complex shape | Vertebrae, Coxal bone |
+| Sesamoid | Small and round | Patella, Pisiform |
+
+--------------------------------------------------
+
+## Lab Activity 6.3
+
+### Major anatomical differences between compact and spongy bone
+
+- Compact bone is dense, solid, and forms the outer layer of bone.
+- Spongy bone is porous, contains trabeculae, and is found inside bones where it houses red marrow.
+
+--------------------------------------------------
+
+## Post Lab Activity 6.1
+
+### Crossword Puzzle – Bone Features
+
+#### Across
+4. Head
+6. Process
+7. Trochanter
+8. Spine
+
+#### Down
+1. Fissure
+2. Facet
+3. Crest line
+5. Epicondyle
+
+--------------------------------------------------
+
+### Crossword Puzzle – Bone Structure
+
+#### Across
+6. Osteons Haversian canals
+7. Perforating canal
+
+#### Down
+1. Osteocytes
+2. Blastocyte
+3. Canaliculi
+4. Osteoclasts
+5. Osteoblast
+
+--------------------------------------------------
+
+## Post Lab Activity 6.2
+
+### Table 6.4 Matching
+
+| Statement | Answer |
+|---|---|
+| ______ cartilage covers ends of long bones. | Articular |
+| Skeletal cartilage is enclosed by the ______. | Perichondrium |
+| The bones of the limbs, shoulders, and hips make up the ______ skeleton. | Appendicular |
+| Cancellous bone is found in the ______ of long bones. | Epiphyses |
+| ______ is found in the medullary cavity and is composed of fat. | Yellow marrow |
+| Articular cartilage is composed of ______. | Hyaline cartilage |
+| The inner surface of bone is covered by the ______. | Endosteum |
+| The tubular shaft of a long bone is the ______. | Diaphysis |
+| The skull, rib cage, and vertebral column make up the ______ skeleton. | Axial |
+| The line separating the diaphysis and epiphysis is the ______. | Epiphyseal line |
+
+--------------------------------------------------
+
+## Figure 6.19 Labeling
+
+Structures to label:
+- Compact bone
+- Spongy bone
+- Trabeculae
+- Osteon
+- Central canal
+- Perforating canal
+- Lacunae
+- Canaliculi
+- Osteocyte
+- Lamellae
+- Periosteum
+- Endosteum
+- Medullary cavity
+- Red marrow
+- Yellow marrow# **Skeletal Terms, Bone Histology, and Microanatomy**
 
 ![](images/_page_125_Picture_1.jpeg)
 
