@@ -1,4 +1,254 @@
-# **Cells**
+# **Cells**# CHAPTER 3 — CELLS
+# FULL ANSWER KEY
+
+## Prelab Activity 3.1
+
+### Cell Structure and Function
+
+| Term | Definition |
+|---|---|
+| Cytoplasm | All contents of the cell between the plasma membrane and nucleus; includes cytosol and organelles. |
+| Cytosol | The fluid portion of the cytoplasm; mostly water with dissolved solutes. |
+| Organelles | Specialized structures within a cell that perform specific functions. |
+
+### Organelle Types
+
+| Term | Definition |
+|---|---|
+| Rough Endoplasmic Reticulum | Studded with ribosomes; synthesizes and folds proteins. |
+| Smooth Endoplasmic Reticulum | Synthesizes lipids; detoxifies drugs and toxins; stores calcium. |
+| Golgi apparatus | Modifies, sorts, and packages proteins and lipids for transport. |
+| Mitochondrion | Produces ATP through cellular respiration. |
+| Lysosomes | Contain digestive enzymes; break down waste and damaged organelles. |
+| Peroxisomes | Break down fatty acids and detoxify harmful substances such as hydrogen peroxide. |
+| Microfilaments | Thin actin filaments that provide support and movement. |
+| Microtubules | Hollow tubulin tubes that provide structure and form spindle fibers. |
+| Cilia | Short projections that move substances across the cell surface. |
+| Flagella | Long whip-like projections used for cell movement. |
+| Nucleus | Control center of the cell containing DNA. |
+| Nucleolus | Produces ribosomal RNA and assembles ribosomes. |
+
+### Membrane Transport
+
+- Passive Transport — Movement across the membrane without energy input.
+- Active Transport — Movement across the membrane requiring ATP.
+- Diffusion — Movement of molecules from high to low concentration.
+- Osmosis — Diffusion of water across a selectively permeable membrane.
+- Cell Cycle — Life cycle of a cell from formation to division.
+- Interphase — Period of growth, DNA replication, and preparation for mitosis.
+- Mitosis — Division of the nucleus into two identical nuclei.
+
+### Stages of Interphase and Mitosis
+
+- Interphase — Overall growth and preparation stage of the cell cycle.
+- G1 phase — Cell growth and normal metabolic activity.
+- S phase — DNA replication occurs.
+- G2 phase — Preparation for mitosis and continued growth.
+
+---
+
+## Prelab Activity 3.2
+
+| Stage | Events | Appearance of Cell |
+|---|---|---|
+| Prophase | Chromatin condenses into chromosomes; nuclear envelope breaks down | Chromosomes become visible |
+| Metaphase | Chromosomes line up at cell center | Chromosomes aligned in middle |
+| Anaphase | Sister chromatids separate to opposite poles | Chromosomes pulled apart |
+| Telophase | Nuclear membranes reform around chromosomes | Two nuclei visible |
+| Cytokinesis | Cytoplasm divides into two cells | Cleavage furrow or cell plate forms |
+
+---
+
+## Prelab Activity 3.3
+
+| Number | Structure |
+|---|---|
+| 1 | Nucleolus |
+| 2 | Nucleus |
+| 3 | Ribosome |
+| 4 | Vesicle |
+| 5 | Rough endoplasmic reticulum |
+| 6 | Golgi apparatus |
+| 7 | Cytoskeleton |
+| 8 | Smooth endoplasmic reticulum |
+| 9 | Mitochondrion |
+| 10 | Vacuole |
+| 11 | Cytosol |
+| 12 | Lysosome |
+| 13 | Centrosome |
+| 14 | Cell membrane |
+
+---
+
+## Prelab Activity 3.4
+
+### Cell Membrane Structure
+
+| Letter | Structure |
+|---|---|
+| a | Phospholipid bilayer |
+| b | Hydrophilic phosphate head |
+| c | Hydrophobic fatty acid tails |
+| d | Integral protein |
+| e | Peripheral protein |
+| f | Cholesterol |
+| g | Glycoprotein/carbohydrate chain |
+
+---
+
+## Prelab Activity 3.5
+
+### Definitions
+
+- Cytokinesis — Division of the cytoplasm into two daughter cells.
+- Interphase — Period of cell growth and DNA replication.
+- M-phase — Phase including mitosis and cytokinesis.
+- Chromosome — Condensed form of chromatin carrying genetic information.
+- Chromatin — DNA and protein complex found in the nucleus.
+
+### Stages of Mitosis
+
+- Prophase
+- Metaphase
+- Anaphase
+- Telophase
+- Cytokinesis
+
+---
+
+## Membrane Structure Questions
+
+### Primary macromolecules making up the membrane:
+- Phospholipids
+- Proteins
+- Cholesterol
+- Carbohydrates
+
+### Functions
+
+- Phospholipids — Form the bilayer and create selective permeability.
+- Cholesterol — Stabilizes membrane fluidity.
+- Proteins — Transport substances and function as receptors and enzymes.
+
+---
+
+## Lab Activity 3.2 Table 3.1
+
+| Structure | Organelle Function |
+|---|---|
+| Plasma membrane | Controls movement into and out of cell |
+| Cilia | Move materials across surface |
+| Microvilli | Increase surface area for absorption |
+| Nucleolus | Produces ribosomes |
+| Nucleus | Contains DNA and controls cell activities |
+| Nuclear envelope | Surrounds nucleus |
+| Nuclear pore | Allows transport in and out of nucleus |
+| Ribosome | Protein synthesis |
+| Vesicle | Transport/storage |
+| Peroxisome | Detoxification |
+| Lysosome | Digestion of waste |
+| Golgi apparatus | Modifies/packages proteins |
+| Mitochondrion | ATP production |
+| Rough endoplasmic reticulum | Protein synthesis |
+| Smooth endoplasmic reticulum | Lipid synthesis/detoxification |
+| Centriole | Organizes spindle fibers |
+
+---
+
+# POST LAB ACTIVITIES
+
+## Post Lab Activity 3.1
+
+1. Cell
+2. Nucleus
+3. Cytoplasm
+4. Phospholipid bilayer; integral proteins; peripheral proteins
+
+---
+
+## Post Lab Activity 3.2
+
+1. b) integral proteins
+2. c) ribosomes
+3. d) the water
+4. b) ribosomes
+5. a) production of proteins
+6. a) mitochondria
+7. b) G1
+
+---
+
+## Post Lab Activity 3.3 Matching
+
+1. Interphase — f
+2. G2 Phase — e
+3. Metaphase — i
+4. S phase — d
+5. Mitosis or M phase — g
+6. Prophase — a
+7. G1 phase — c
+8. Cytokinesis — b
+9. Telophase — j
+10. Anaphase — h
+
+---
+
+## Post Lab Activity 3.4 Crossword
+
+### Across
+3. Cell nucleus
+5. Plasma membrane
+6. Lysosome
+7. Peroxisome
+
+### Down
+1. Nucleolus
+2. Centriole
+4. Golgi apparatus
+8. Ribosome
+
+---
+
+## Post Lab Activity 3.5 Matching
+
+1. Interphase — f
+2. G2 Phase — e
+3. Metaphase — i
+4. S phase — d
+5. Mitosis or M phase — g
+6. Prophase — a
+7. G1 phase — c
+8. Cytokinesis — b
+9. Telophase — j
+10. Anaphase — h
+
+---
+
+## Post Lab Activity 3.6
+
+### Table 3.4 Cell Nucleus
+
+| Number | Structure |
+|---|---|
+| 1a | Rough endoplasmic reticulum |
+| 1b | Ribosomes |
+| 2 | Nuclear pore |
+| 3 | Nuclear envelope |
+| 4a | Chromatin |
+| 4b | Chromosome |
+| 5 | Nucleolus |
+| 6 | Nucleus |
+
+---
+
+## Table 3.5 Stages of Mitosis
+
+| Letter | Stage |
+|---|---|
+| a | Prophase |
+| b | Metaphase |
+| c | Anaphase |
+| e | Telophase |
 ========================================
 CHAPTER 3 — CELLS  
 FULL ANSWER KEY  
