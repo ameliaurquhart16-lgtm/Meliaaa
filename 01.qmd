@@ -1,4 +1,307 @@
+---# Anatomical Language – Completed Answers
+
+## Prelab Activity 1.1 – Definitions
+
+### Directional Terms
+
+| Term | Definition |
+|---|---|
+| Anterior (or ventral) | Toward the front of the body; in front of |
+| Posterior (or dorsal) | Toward the back of the body; behind |
+| Superior (or cranial) | Toward the head or upper part of a structure |
+| Inferior (or caudal) | Away from the head; toward the feet or lower part |
+| Lateral | Away from the midline of the body |
+| Medial | Toward or at the midline of the body |
+| Proximal | Closer to the point of attachment to the trunk |
+| Distal | Farther from the point of attachment to the trunk |
+| Superficial | Toward or at the body surface |
+| Deep | Away from the body surface; more internal |
+
+### Body Cavities
+
+| Term | Definition |
+|---|---|
+| Cranial | Cavity within the skull that encloses the brain |
+| Abdominal | Portion of the ventral cavity inferior to the diaphragm |
+| Pericardial | Fluid-filled cavity surrounding the heart |
+| Pleural | Cavities surrounding the lungs |
+| Ventral | Anterior body cavity containing thoracic and abdominopelvic cavities |
+
+### Body Planes
+
+| Term | Definition |
+|---|---|
+| Sagittal plane | Divides the body into right and left portions |
+| Midsagittal plane | Divides the body into equal right and left halves |
+| Parasagittal plane | Divides the body into unequal right and left portions |
+| Frontal plane | Divides the body into anterior and posterior portions |
+| Transverse plane | Divides the body into superior and inferior portions |
+| Oblique plane | Plane passing through the body at an angle |
+
 ---
+
+## Prelab Activity 1.2 – Identification
+
+(Figure-dependent answers cannot be reliably completed without the image labels.)
+
+---
+
+## Prelab Activity 1.3 – Organ Systems
+
+| Organ System | Function | Organs |
+|---|---|---|
+| 1. Integumentary | Protects body and regulates temperature | Skin, hair, nails, sweat glands |
+| 2. Skeletal | Support, protection, blood cell formation | Bones, cartilage, ligaments |
+| 3. Muscular | Movement and heat production | Skeletal muscles, tendons |
+| 4. Nervous | Fast-acting control system | Brain, spinal cord, nerves |
+| 5. Endocrine | Hormone secretion | Pituitary, thyroid, adrenal glands |
+| 6. Cardiovascular | Transports blood | Heart, blood vessels |
+| 7. Lymphatic | Immunity and fluid return | Lymph nodes, spleen, thymus |
+| 8. Respiratory | Gas exchange | Lungs, trachea, bronchi |
+| 9. Digestive | Breaks down food | Stomach, intestines, liver |
+| 10. Urinary | Eliminates wastes | Kidneys, bladder, ureters |
+| 11a. Male Reproductive | Produces sperm | Testes, penis, prostate |
+| 11b. Female Reproductive | Produces eggs and supports fetus | Ovaries, uterus, vagina |
+
+---
+
+# Lab Activity 1.1 – Anatomical Terminology
+
+## Anatomical Position
+
+Body standing upright facing forward, arms at sides, palms forward,
+feet slightly apart.
+
+## Prone Position
+
+Body lying face down.
+
+## Supine Position
+
+Body lying face up.
+
+---
+
+# Lab Activity 1.4 – Applying Anatomical and Regional Terminology
+
+1. The elbow is located **proximal** to the wrist.
+
+2. The umbilicus is located **inferior** to the sternum.
+
+3. The nose is located **medial** to the ears.
+
+4. The mouth is located **superior** to the chin.
+
+5. A papercut would be a **superficial** wound; a puncture wound would
+be a **deep** wound.
+
+6. A wound on the elbow would be **superficial** to the elbow.
+
+---
+
+# Lab Activity 1.5 – Moving to Anatomical Position
+
+## 1. From lying face-up with knees bent
+
+- Extend the knees.
+- Place feet flat and forward.
+- Move arms to the sides.
+- Rotate palms anteriorly.
+- Stand upright facing forward.
+
+## 2. From seated position with arms crossed
+
+- Uncross arms.
+- Place arms at sides.
+- Rotate palms anteriorly.
+- Stand upright with feet slightly apart.
+- Face forward.
+
+---
+
+# Lab Activity 1.6 – Body Planes
+
+| Plane | Description |
+|---|---|
+| Sagittal | Divides right and left |
+| Midsagittal | Equal right and left halves |
+| Parasagittal | Unequal right and left |
+| Transverse | Upper and lower portions |
+| Coronal (Frontal) | Front and back portions |
+| Oblique | Diagonal cut |
+
+Figure 1.10 Plane: **Transverse**
+
+Figure 1.11 Plane: **Midsagittal**
+
+---
+
+# Lab Activity 1.8 – Abdominal Quadrants
+
+| Quadrant | Organs |
+|---|---|
+| Right Upper Quadrant | Liver, gallbladder |
+| Right Lower Quadrant | Appendix, cecum |
+| Left Upper Quadrant | Stomach, spleen |
+| Left Lower Quadrant | Sigmoid colon, small intestine |
+
+---
+
+# Lab Activity 1.8 – Abdominal Regions
+
+| Region | Organs |
+|---|---|
+| Left hypochondriac | Spleen, stomach |
+| Epigastric | Stomach, pancreas |
+| Right hypochondriac | Liver, gallbladder |
+| Left lumbar | Descending colon |
+| Umbilical | Small intestine |
+| Right lumbar | Ascending colon |
+| Left iliac | Sigmoid colon |
+| Hypogastric | Bladder, uterus |
+| Right iliac | Appendix, cecum |
+
+---
+
+# Lab Activity 1.9 – Organ Systems and Organs
+
+| Organ System | Organs |
+|---|---|
+| 1. Integumentary | Skin, hair, nails |
+| 2. Skeletal | Bones, cartilage |
+| 3. Muscular | Muscles, tendons |
+| 4. Nervous | Brain, spinal cord |
+| 5. Endocrine | Pituitary, thyroid |
+| 6. Cardiovascular | Heart, blood vessels |
+| 7. Lymphatic | Lymph nodes, spleen |
+| 8. Respiratory | Lungs, trachea |
+| 9. Digestive | Stomach, intestines |
+| 10. Urinary | Kidneys, bladder |
+| 11a. Male reproductive | Testes, penis |
+| 11b. Female reproductive | Ovaries, uterus |
+
+---
+
+# Post Lab Activity 1.1 – Fill in the Blanks
+
+## Systems
+
+- The **integumentary** system forms the external body covering.
+- The **integumentary** system protects deeper tissues from injury.
+- The **integumentary** system synthesizes vitamin D.
+- Organs of the **endocrine** system secrete hormones into the blood.
+- The **respiratory** system keeps blood supplied with oxygen.
+- The **reproductive** system produces sperm or eggs and sex hormones.
+
+## Homeostasis
+
+- In a **positive** feedback system, a change is amplified.
+- In a **negative** feedback system, a change returns toward normal.
+
+## Position Terms Review
+
+- The knees are **superior/proximal** to the ankles.
+- The thumbs are **lateral** to the pinky fingers.
+- The spine is **posterior** to the breastbone.
+- The chest is **anterior** to the shoulder blades.
+- The pinky fingers are **medial** to the thumbs.
+- The navel is **anterior** to the lower back.
+- The eyes are **lateral** to the bridge of the nose.
+- The breasts are **anterior/superficial** to the lungs.
+- The intestines are **inferior** to the neck.
+- The nose is **superior** to the mouth.
+- The elbows are **proximal** to the wrists.
+- The mouth is **inferior** to the forehead.
+- The calf is **posterior** to the shin.
+- The heart is **deep** to the ribcage.
+- The genitals are **medial** to the hips.
+- The ankles are **distal** to the shins.
+- The nipples are **superior** to the knees.
+- The lips are **medial** and **inferior** to the ears.
+- The brain is **deep** to the skull.
+- The thighs are **proximal** to the feet.
+- The lower back is **posterior** to the navel.
+- The ribcage is **superficial** to the lungs.
+- The skin is **superficial** to the muscles.
+
+## Regional Terms Review
+
+- Nasal = **nose**
+- Oral = **mouth**
+- Cervical = **neck**
+- Acromial = **shoulder**
+- Axillary = **armpit**
+- Abdominal = **abdomen**
+- Brachial = **arm**
+- Antecubital = **front of elbow**
+- Antebrachial = **forearm**
+- Pelvic = **pelvis**
+
+## Planes
+
+- The **frontal** or **coronal** plane separates anterior and posterior portions.
+- The **transverse** or **horizontal** plane separates superior and inferior portions.
+
+## Cavities
+
+- The cranial cavity is within the **dorsal** cavity.
+- The spinal cavity is within the **dorsal** cavity.
+- The thoracic cavity is within the **ventral** cavity.
+- The abdominopelvic cavity is within the **ventral** cavity.
+- The brain is found in the **cranial** cavity.
+- The spinal cord is found in the **vertebral/spinal** cavity.
+
+---
+
+# Post Lab Activity 1.2 – Multiple Choice
+
+1. d. Frontal plane  
+2. b. Thoracic and abdominal cavities  
+3. c. Midsagittal plane  
+4. b. Mediastinum  
+5. c. Umbilical region  
+6. d. Endocrine system  
+7. d. Skeletal system  
+8. d. None of the above  
+9. d. Visceral  
+10. c. Lateral
+
+---
+
+# Post Lab Activity 1.3 – Crossword Answers
+
+## Systems of the Body
+
+### Across
+
+2. Endocrine  
+6. Cardiovascular  
+8. Integumentary  
+10. Muscular  
+
+### Down
+
+1. Reproductive  
+3. Nervous  
+4. Urinary  
+5. Digestive  
+7. Skeletal  
+9. Respiratory  
+
+---
+
+## Body Cavities
+
+### Across
+
+4. Thoracic  
+5. Pleural  
+
+### Down
+
+1. Mediastinum  
+2. Pelvic  
+3. Abdominal  
 editor: 
   markdown: 
     wrap: 72
