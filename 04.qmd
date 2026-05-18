@@ -3,7 +3,223 @@
 CHAPTER 4 — HISTOLOGY / TISSUES  
 FULL ANSWER KEY  
 ========================================
+# CHAPTER 4 — HISTOLOGY / TISSUES
+# FULL ANSWER KEY
 
+## Prelab Activity 4.1 — Definitions
+
+### Types of Tissues
+
+- Epithelial — Tissue that covers body surfaces, lines cavities, and forms glands.
+- Connective — Tissue that supports, binds, and protects other tissues.
+- Muscular — Tissue specialized for contraction and movement.
+- Nervous — Tissue that transmits electrical impulses for communication.
+
+---
+
+## Epithelial Tissues
+
+- Simple squamous — Single layer of flat cells; allows diffusion and filtration.
+- Stratified squamous (keratinized/nonkeratinized) — Multiple layers for protection from abrasion.
+- Simple cuboidal — Single layer of cube-shaped cells; secretion and absorption.
+- Stratified cuboidal/columnar — Rare; protection in ducts of glands.
+- Simple columnar — Single layer of tall cells; absorption and secretion.
+- Pseudostratified columnar epithelium — Appears multilayered; secretion and movement of mucus.
+- Transitional epithelium — Stretchable epithelium in urinary organs.
+
+---
+
+## Epithelial Features
+
+### Epithelial Layers
+- Simple — One layer of cells.
+- Stratified — Multiple layers of cells.
+
+### Surfaces
+- Apical — Surface facing lumen or free space.
+- Basal — Surface attached to basement membrane.
+- Basement membrane — Anchors epithelium to connective tissue.
+
+---
+
+## Connective Tissue
+
+- Cartilage — Supportive connective tissue with chondrocytes in lacunae.
+- Areolar connective tissue — Loose connective tissue surrounding organs.
+- Hyaline cartilage — Smooth cartilage found in joints and trachea.
+- Adipose tissue — Fat storage tissue.
+- Fibrocartilage — Strong cartilage with thick collagen fibers.
+- Elastic cartilage — Flexible cartilage found in ear and epiglottis.
+- Regular dense connective tissue — Parallel collagen fibers in tendons and ligaments.
+- Irregular dense connective tissue — Irregular collagen arrangement in dermis.
+- Bone — Mineralized connective tissue for support and protection.
+- Blood — Fluid connective tissue transporting materials.
+
+---
+
+## Connective Tissue Features
+
+- Collagen fibers — Strong fibers providing tensile strength.
+- Elastin fibers — Stretchable fibers allowing recoil.
+- Extracellular matrix — Ground substance plus fibers surrounding cells.
+- Cells — Living components of connective tissue.
+    - Fibroblasts — Produce fibers and matrix.
+    - Adipocytes — Fat-storing cells.
+    - Chondrocytes — Cartilage cells.
+- Lacuna — Small cavity containing cartilage or bone cells.
+
+---
+
+# LAB ACTIVITY 4.1 — Epithelial Tissue Identification
+
+| Figure | Tissue Name | Location | Function |
+|---|---|---|---|
+| Figure 4.3 | Simple squamous epithelium | Alveoli of lungs; kidney glomeruli | Diffusion and filtration |
+| Figure 4.4 | Simple cuboidal epithelium | Kidney tubules; glands | Secretion and absorption |
+| Figure 4.5 | Simple columnar epithelium | Digestive tract | Absorption and secretion |
+| Figure 4.6 | Pseudostratified ciliated columnar epithelium | Trachea; respiratory tract | Secretion and movement of mucus |
+| Figure 4.7 | Transitional epithelium | Urinary bladder | Stretching and distension |
+| Figure 4.8 | Stratified squamous epithelium | Skin; mouth; esophagus | Protection from abrasion |
+
+---
+
+# LAB ACTIVITY 4.2 — Microscope Work
+
+| Tissue | Magnification | Location |
+|---|---|---|
+| Simple squamous | 400x | Lung alveoli; kidney glomeruli |
+| Simple cuboidal | 400x | Kidney tubules; glands |
+| Simple columnar | 400x | Small intestine; stomach |
+| Transitional | 400x | Urinary bladder |
+| Stratified squamous | 400x | Skin; oral cavity; esophagus |
+
+---
+
+# LAB ACTIVITY 4.3 & 4.4 — Connective Tissue Identification
+
+| Tissue | Magnification | Location | Function |
+|---|---|---|---|
+| Areolar | 400x | Under epithelia; around organs | Support and cushioning |
+| Adipose | 400x | Hypodermis; around kidneys | Energy storage and insulation |
+| Dense regular connective tissue | 400x | Tendons; ligaments | Strong attachment |
+| Blood | 400x | Blood vessels | Transport |
+| Hyaline cartilage | 400x | Trachea; joints | Support and reduced friction |
+| Fibrocartilage | 400x | Intervertebral discs | Shock absorption |
+| Elastic cartilage | 400x | Ear; epiglottis | Flexible support |
+| Bone | 400x | Skeleton | Support and protection |
+
+---
+
+# POST LAB ACTIVITY 4.1
+
+## Epithelium Classification
+
+Epithelium is classified by:
+1. Number of cell layers (simple or stratified)
+2. Cell shape (squamous, cuboidal, columnar)
+
+### Examples
+- Simple squamous epithelium is thin for diffusion in lungs.
+- Stratified squamous epithelium protects against abrasion in skin.
+- Simple cuboidal epithelium functions in secretion and absorption in kidney tubules.
+- Simple columnar epithelium absorbs nutrients in intestines.
+
+---
+
+## Major Tissue Types
+
+| Tissue Type | Characteristics | Example Location |
+|---|---|---|
+| Epithelial | Covers and lines surfaces | Skin |
+| Connective | Supports and binds tissues | Bone |
+| Muscle | Contracts for movement | Skeletal muscles |
+| Nervous | Conducts impulses | Brain and spinal cord |
+
+The epithelial tissue contains an apical surface.
+
+---
+
+# POST LAB ACTIVITY 4.2
+
+| Figure | Tissue Type | Location |
+|---|---|---|
+| Fig. 4.10 | Simple squamous epithelium | Alveoli; kidney glomeruli |
+| Fig. 4.11 | Simple cuboidal epithelium | Kidney tubules |
+| Fig. 4.12 | Simple columnar epithelium | Intestines |
+| Fig. 4.13 | Transitional epithelium | Urinary bladder |
+| Fig. 4.14 | Stratified squamous epithelium | Skin; esophagus |
+| Fig. 4.15 | Pseudostratified ciliated columnar epithelium | Trachea |
+
+---
+
+# POST LAB ACTIVITY 4.3 — Crossword Answers
+
+## Across
+4. Simple squamous epithelium
+5. Neuron
+7. Glial cell
+9. Stratified squamous epithelium
+11. Simple cuboidal epithelium
+12. Skeletal muscle
+
+## Down
+1. Dense regular connective tissue
+2. Loose connective tissue
+3. Bone
+6. Hyaline cartilage
+8. Cardiac muscle
+10. Smooth muscle
+
+---
+
+# ADDITIONAL REVIEW NOTES
+
+## Areolar Tissue
+- Loose connective tissue
+- Contains fibroblasts, collagen, and elastic fibers
+- Supports organs and surrounds blood vessels
+
+## Dense Regular Connective Tissue
+- Parallel collagen fibers
+- Strong attachment
+- Found in tendons and ligaments
+
+## Hyaline Cartilage
+- Smooth, glassy matrix
+- Found in trachea and joints
+
+## Elastic Cartilage
+- Flexible cartilage with elastin fibers
+- Found in ear and epiglottis
+
+## Fibrocartilage
+- Thick collagen bundles
+- Found in intervertebral discs
+
+## Bone Tissue
+- Contains osteons and osteocytes
+- Provides support, mineral storage, and protection
+
+---
+
+# QUICK REVIEW OF MUSCLE TISSUES
+
+| Muscle Type | Characteristics | Location |
+|---|---|---|
+| Skeletal muscle | Striated; voluntary; multinucleated | Attached to bones |
+| Cardiac muscle | Striated; involuntary; intercalated discs | Heart |
+| Smooth muscle | Nonstriated; involuntary | Hollow organs |
+
+---
+
+# QUICK REVIEW OF NERVOUS TISSUE
+
+| Structure | Function |
+|---|---|
+| Neuron | Conducts impulses |
+| Axon | Carries signals away from cell body |
+| Dendrites | Receive signals |
+| Neuroglia | Support and protect neurons |
 ===============================
 Prelab Activity 4.1  
 Definitions  
